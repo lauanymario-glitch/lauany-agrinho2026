@@ -16,7 +16,7 @@ Todo o conteúdo foi revisado, adaptado e validado pela equipe responsável pelo
 
 Desenvolvimento
 
-Projeto desenvolvido pelos estudantes e professores do **Colégio Estadual de Campo Machado de Assis**, com apoio de ferramentas digitais e recursos de Inteligência Artificial para fins educacionais.
+Projeto desenvolvido com apoio de ferramentas digitais e recursos de Inteligência Artificial para fins educacionais.
 
 ### Desenvolvido para fins educacionais e de conscientização ambiental.
 ### Colégio Estadual de Campo Machado de Assis ©
